@@ -33,7 +33,7 @@ Passionate computer science student with a strong foundation in problem-solving 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bash" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,mysql,linux,git,postman" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,mysql,linux,git,postman,arch" />
 </p>
 
 ---
