@@ -50,22 +50,28 @@ Passionate computer science student with a strong foundation in problem-solving 
 ### 📂 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Youssef-Essam12/To-Do-List">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=To-Do-List&theme=radical" />
-  </a>
-  <a href="https://github.com/Youssef-Essam12/Vulnhub-Writeups">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Vulnhub-Writeups&theme=radical" />
-  </a>
-  
-  <br /> <a href="https://github.com/Youssef-Essam12/Vibe-Audio-Player">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Vibe-Audio-Player&theme=radical" />
-  </a>
+<a href="https://github.com/Youssef-Essam12/To-Do-List">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=To-Do-List&theme=radical" />
+</a>
+<a href="https://github.com/Youssef-Essam12/Vulnhub-Writeups">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Vulnhub-Writeups&theme=radical" />
+</a>
 
-  <!-- <a href="https://github.com/Youssef-Essam12/Infinity-Image-Processor">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Infinity-Image-Processor&theme=radical" />
-  </a> -->
+<br>
 
-  <!-- <a href="https://github.com/Youssef-Essam12/CP-RESOURCES">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=CP-RESOURCES&theme=radical" />
-  </a> -->
-  </div>
+<a href="https://github.com/Youssef-Essam12/Vibe-Audio-Player">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Vibe-Audio-Player&theme=radical" />
+</a>
+<a href="https://github.com/Youssef-Essam12/Infinity-Image-Processor">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=Infinity-Image-Processor&theme=radical" />
+</a>
+
+<br>
+
+<!-- <a href="https://github.com/Youssef-Essam12/CP-RESOURCES">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=CP-RESOURCES&theme=radical" />
+</a>
+<a href="https://github.com/Youssef-Essam12/CP-RESOURCES">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=CP-RESOURCES&theme=radical" />
+</a> -->
+</div>
