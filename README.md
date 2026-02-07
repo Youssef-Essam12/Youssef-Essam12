@@ -68,10 +68,11 @@ Passionate computer science student with a strong foundation in problem-solving 
 
 <br>
 
-<!-- <a href="https://github.com/Youssef-Essam12/CP-RESOURCES">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=CP-RESOURCES&theme=radical" />
+<a href="https://github.com/Youssef-Essam12/The-XO-Verse">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=The-XO-Verse&theme=radical" />
 </a>
-<a href="https://github.com/Youssef-Essam12/CP-RESOURCES">
-  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=CP-RESOURCES&theme=radical" />
-</a> -->
+
+<a href="https://github.com/Youssef-Essam12/LibraryManagementSystemOOP">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=LibraryManagementSystemOOP&theme=radical" />
+</a>
 </div>
