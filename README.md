@@ -21,7 +21,7 @@ Passionate computer science student with a strong foundation in problem-solving 
   <a href="https://codeforces.com/profile/essam64" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://tryhackme.com/p/youssefessam12" target="_blank">
+  <a href="https://tryhackme.com/p/youssefEssam12" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
 </div>
@@ -33,7 +33,7 @@ Passionate computer science student with a strong foundation in problem-solving 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,bash" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,mysql,linux,git,postman,arch" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,mysql,linux,git,postman,arch,react,typescript" />
 </p>
 
 ---
