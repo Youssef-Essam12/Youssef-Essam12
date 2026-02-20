@@ -75,4 +75,8 @@ Passionate computer science student with a strong foundation in problem-solving 
 <a href="https://github.com/Youssef-Essam12/LibraryManagementSystemOOP">
   <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Youssef-Essam12&repo=LibraryManagementSystemOOP&theme=radical" />
 </a>
+
+<a href="https://github.com/Muhammed-Esmail/Werd">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Muhammed-Esmail&repo=Werd&theme=radical" />
+</a>
 </div>
